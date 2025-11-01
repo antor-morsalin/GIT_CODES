@@ -1,1 +1,1 @@
-console.log("Test");
+console.log("Testing the new version");
